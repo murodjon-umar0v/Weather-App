@@ -1,5 +1,10 @@
 # weather-app
 
+Link for DEMO
+```
+https://weather-app-mu.netlify.app
+```
+
 ## Project setup
 ```
 yarn install
