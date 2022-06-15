@@ -1,0 +1,22 @@
+ <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 64 64"
+    aria-labelledby="title"
+    aria-describedby="desc"
+    role="img"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="20"
+   >
+    <title>Water</title>
+    <desc>A line styled icon from Orion Icon Library.</desc>
+    <path
+     data-name="layer1"
+     d="M51.9 40.1a20.6 20.6 0 0 0-1-4.9C46.9 20.8 32 2 32 2S17.1 20.8 13 35.2a20.6 20.6 0 0 0-1 4.9c0 .5-.1 1-.1 1.5A20.2 20.2 0 0 0 32 62a20.2 20.2 0 0 0 20-20.4c0-.5 0-1-.1-1.5z"
+     fill="none"
+     stroke="#202020"
+     stroke-miterlimit="10"
+     stroke-width="2"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+    ></path>
+   </svg>
